@@ -1,0 +1,6 @@
+<form action=index.html>
+<font>first name:<font>
+<br>
+<input type=text=firstname>
+input type=submit value=CLICK!>
+</form>
